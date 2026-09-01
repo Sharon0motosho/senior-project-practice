@@ -1,0 +1,6 @@
+print("Senior Project Developer Profile")
+print()
+print("Name: Sharon Omotosho")
+print("Major: Computer Science")
+print("Technology Interest: Data Science")
+print("Skill Goal: Full-Stack Web Development")
